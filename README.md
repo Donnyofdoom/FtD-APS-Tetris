@@ -1,6 +1,6 @@
 # FtD-APS-Tetris
 Collection of community discovered optimal APS tetris layouts for round turrets using 3 clip (T) loaders, intended to be used as prefabs.  
-Nontrvial layouts were found computationally and are guaranteed to be the highest possible density (if not the most symmetric)  
+Nontrivial layouts were found computationally and are guaranteed to be the highest possible density (if not the most symmetric)  
 
 - [1m](/1m) contains a set of 5x5 to 23x23 unarmoured layout prefabs
 - [1m Front Armour](/1m%20Front%20Armour) contains a set of 7x7 to 15x15 frontally armoured layout prefabs

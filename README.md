@@ -3,8 +3,8 @@ Collection of community discovered optimal APS tetris layouts for round turrets 
 Nontrivial layouts were found computationally and are guaranteed to be the highest possible density (if not the most symmetric)  
 
 - [1m](/1m) contains a set of 5x5 to 23x23 unarmoured layout prefabs
-- [1m Front Armour](/1m%20Front%20Armour) contains a set of 7x7 to 19x19 frontally armoured layout prefabs
-- [1m Full Armour](/1m%20Full%20Armour) contains a set of 7x7 to 19x19 front and side armoured layout prefabs
+- [1m Front Armour](/1m%20Front%20Armour) contains a set of 7x7 to 23x23 frontally armoured layout prefabs
+- [1m Full Armour](/1m%20Full%20Armour) contains a set of 7x7 to 23x23 front and side armoured layout prefabs
 - [APS Tetris Templates](APS%20Tetris%20Templates.blueprint) construct is a single construct containing all templates
 
 ## Usage
@@ -37,6 +37,8 @@ Copy the [APS Tetris Templates](APS%20Tetris%20Templates.blueprint) blueprint in
 15x15: sneed4feed  
 17x17: sneed4feed  
 19x19: sneed4feed  
+21x21: sneed4feed  
+23x23: sneed4feed  
 
 ### Full Armour
 7x7: sneed4feed  
@@ -46,3 +48,5 @@ Copy the [APS Tetris Templates](APS%20Tetris%20Templates.blueprint) blueprint in
 15x15: sneed4feed  
 17x17: sneed4feed  
 19x19: sneed4feed  
+21x21: sneed4feed  
+23x23: sneed4feed  
